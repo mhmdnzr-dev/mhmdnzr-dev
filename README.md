@@ -22,8 +22,8 @@
 - Building efficient and scalable architectures  
 
 ## 📫 How to reach me  
-- Email: [Your Email Here]  
-- LinkedIn: [Your LinkedIn Profile Here]  
+- Email: m.nazari.dev@icloud.com  
+- LinkedIn: https://www.linkedin.com/in/mhmdnzr  
 - GitHub: [@mhmdnzr-dev](https://github.com/mhmdnzr-dev)  
 
 ## 😄 Pronouns:  
