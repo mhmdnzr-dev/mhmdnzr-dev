@@ -1,36 +1,100 @@
-# 👋 Hi, I’m Mohammad Nazari (@mhmdnzr-dev)  
-
-🚀 Passionate .NET backend developer with a strong focus on payment systems, scalable architectures, and Domain-Driven Design (DDD). I love tackling complex software challenges and building efficient, maintainable, and high-performance applications.  
-
-## 👀 I’m interested in  
-- Large-scale .NET applications  
-- Clean Architecture and SOLID principles  
-- Monorepository strategies for enterprise projects  
-- Identity and authorization solutions (**IdentityServer**)  
-- Frontend development with React  
-- Cloud computing and distributed systems  
-
-## 🌱 I’m currently learning  
-- Advanced DDD and event-driven architecture  
-- Deep diving into IdentityServer for authentication/authorization  
-- Enhancing my expertise in Cloud Computing and Kubernetes  
-- Exploring React for frontend development  
-
-## 💞 I’m looking to collaborate on  
-- .NET backend projects, especially in fintech and payment systems  
-- Open-source projects related to IdentityServer, authentication, and security  
-- Building efficient and scalable architectures  
-
-## 📫 How to reach me  
-- Email: m.nazari.dev@icloud.com  
-- LinkedIn: https://www.linkedin.com/in/mhmdnzr  
-- GitHub: [@mhmdnzr-dev](https://github.com/mhmdnzr-dev)  
-
-## 😄 Pronouns:  
-He/Him  
-
-## ⚡️ Fun fact  
-I’m always looking for new challenges to push my limits. Also, I enjoy exploring software design patterns and finding elegant solutions for complex problems.  
+# Mohammad Nazari  
+**Backend .NET Developer**  
+Tehran, Iran (Remote-Ready)  
+📧 m.nazari.dev@icloud.com | 📞 +98 920 321 6120  
+🔗 [linkedin.com/in/mhmdnzr](https://www.linkedin.com/in/mhmdnzr)
 
 ---
-✨ Always open to discussing innovative ideas and sharing knowledge! Feel free to connect! 🚀
+
+## 🧩 Professional Summary
+
+Passionate backend developer with over 6 years of hands-on experience in designing and implementing scalable and maintainable software systems. Specialized in ASP.NET Core and backend architecture with a strong focus on Domain-Driven Design (DDD), Clean Architecture, and microservices. Proven expertise in building secure RESTful APIs, payment systems, and enterprise-grade backend modules.
+
+Highly self-motivated and committed to remote, deadline-driven, and project-based collaboration. Comfortable with modern DevOps pipelines, Git-based workflows, and agile communication tools.
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages & Frameworks:** C#, .NET Core, ASP.NET Core, EF Core  
+- **Architecture:** Clean Architecture, DDD, Modular Monoliths, Microservices  
+- **APIs:** RESTful APIs, Swagger/OpenAPI  
+- **Databases:** SQL Server, LINQ, Stored Procedures, Schema Design  
+- **DevOps & Tools:** Git, Docker, GitHub Actions, GitLab CI, CI/CD pipelines  
+- **Project Tools:** Trello, Slack, Microsoft Teams, Notion  
+- **Other Skills:** Unit Testing, Debugging, Refactoring, Documentation Writing
+
+---
+
+## 💼 Professional Experience
+
+### **Backend Developer**  
+**Dr.Link**, Tehran, Iran (Remote)  
+*Aug 2024 – Present*  
+- Built a robust backend infrastructure for a national psychological clinic payment gateway  
+- Developed secure and efficient .NET Core APIs with modular design and layered architecture  
+- Implemented domain models aligned with DDD principles  
+- Maintained CI/CD pipelines and managed Git repositories  
+- Participated in remote agile ceremonies and documentation
+
+---
+
+### **Backend Developer**  
+**SAAP (Samaneh Andishmand Pegah)**, Tehran, Iran  
+*Jan 2024 – Dec 2024*  
+- Engineered backend systems for inventory and distribution platforms used by top FMCG brands  
+- Designed relational database models in SQL Server and optimized complex queries  
+- Applied REST API best practices for extensible communication across modules  
+- Enhanced application security and code performance
+
+---
+
+### **Full Stack Engineer**  
+**SepandPay**, Tehran, Iran  
+*Mar 2022 – Jul 2023*  
+- Built a merchant management system for PSPs in the Iranian banking network  
+- Led backend development with ASP.NET Core and integrated identity/security layers  
+- Focused on seamless user experience and admin panel features  
+- Delivered consistent updates via Git and participated in code reviews
+
+---
+
+### **Frontend Developer**  
+**Weconomy.network**, China (Remote)  
+*Jun 2023 – Oct 2023*  
+- Developed decentralized web3 exchange interfaces  
+- Contributed to smart UI integration and wallet connectivity
+
+---
+
+### **Frontend Developer**  
+**Almas Dadeh**, Tehran, Iran  
+*May 2020 – Apr 2021*  
+- Built and maintained web applications for financial market platforms
+
+---
+
+## 🎓 Education
+
+**Islamic Azad University**  
+Master’s Degree in Network and System Administration *(Expected Aug 2024)*
+
+**Semnan University**  
+B.Sc. in Computer Software Engineering *(2019 – Jan 2024)*
+
+---
+
+## 📄 Certifications
+
+- Maximilian Schwarzmüller – React Course  
+- Maximilian Schwarzmüller – TypeScript Course  
+- Microsoft – Programming in HTML5 with JavaScript and CSS3
+
+---
+
+## 🌐 Languages
+
+- Persian: Native  
+- English: Limited Working Proficiency
+
+---
