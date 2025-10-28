@@ -1,7 +1,7 @@
 # Mohammad Nazari  
 **Backend .NET Developer**  
 Tehran, Iran (Remote-Ready)  
-📧 m.nazari.dev@icloud.com | 📞 +98 920 321 6120  
+📧 m.nazari.dev@icloud.com
 🔗 [linkedin.com/in/mhmdnzr](https://www.linkedin.com/in/mhmdnzr)
 
 ---
@@ -82,15 +82,6 @@ Master’s Degree in Network and System Administration *(Expected Aug 2024)*
 **Semnan University**  
 B.Sc. in Computer Software Engineering *(2019 – Jan 2024)*
 
----
-
-## 📄 Certifications
-
-- Maximilian Schwarzmüller – React Course  
-- Maximilian Schwarzmüller – TypeScript Course  
-- Microsoft – Programming in HTML5 with JavaScript and CSS3
-
----
 
 ## 🌐 Languages
 
